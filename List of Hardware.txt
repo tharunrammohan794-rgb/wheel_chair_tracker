@@ -1,0 +1,6 @@
+List of Hardware:
+
+1. ESP32 - 3 - http://robu.in/product/esp3238pin-development-boardwifibluetooth-ultra-low-powerconsumption-dual-core/
+2. BMP280 - 1 - https://www.amazon.in/BMP280Barometric-Pressure-AltitudeSensor/dp/B08P62PX1L
+3. Connecting wires - as req - From an electronics store
+4. Micro USB cables - 3 - From an electronics store
