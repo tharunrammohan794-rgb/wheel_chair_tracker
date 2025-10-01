@@ -6,8 +6,8 @@
 #include <Adafruit_BMP280.h>
 
 // ---------------- WiFi Credentials ----------------
-#define WIFI_SSID "Mayank's Pixel 8a"
-#define WIFI_PASSWORD "mayank@1564"
+#define WIFI_SSID "abc"
+#define WIFI_PASSWORD "xyz"
 
 // ---------------- Firebase Credentials ----------------
 #define API_KEY "AIzaSyBjWu15EWhWOvNUSi7rkaugOV8yGSsNxIM"
